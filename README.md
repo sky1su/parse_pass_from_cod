@@ -9,7 +9,7 @@ vm-name-03-00.00.00.00 [SRV0003] https://cod-portal-url/uniq_one_time_id
 ```
 на выходе формируется out.csv:
 ```
-hostname;,login;password
+hostname;login;password
 ```
 
 # Инстуркция по использованию
