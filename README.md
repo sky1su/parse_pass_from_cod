@@ -16,9 +16,8 @@ hostname;login;password
 ```
 git clone https://github.com/sky1su/parse_pass_from_cod.git
 cd parse_pass_from_cod
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+poetry install
+poetry shell
 python3 main.py 
 ```
 
